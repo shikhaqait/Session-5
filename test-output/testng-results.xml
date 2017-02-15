@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14223" started-at="2017-02-13T10:00:09Z" finished-at="2017-02-13T10:00:24Z">
+  <suite name="Default suite" duration-ms="10956" started-at="2017-02-15T07:05:50Z" finished-at="2017-02-15T07:06:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14223" started-at="2017-02-13T10:00:09Z" finished-at="2017-02-13T10:00:24Z">
-      <class name="Qainfotech.Session5.HRIS_Time">
-        <test-method status="PASS" signature="startBrowser()[pri:0, instance:Qainfotech.Session5.HRIS_Time@26653222]" name="startBrowser" is-config="true" duration-ms="2475" started-at="2017-02-13T15:30:09Z" finished-at="2017-02-13T15:30:12Z">
+    <test name="Default test" duration-ms="10956" started-at="2017-02-15T07:05:50Z" finished-at="2017-02-15T07:06:01Z">
+      <class name="Qainfotech.Session5.SikuliTestVPN">
+        <test-method status="PASS" signature="sikulitest()[pri:0, instance:Qainfotech.Session5.SikuliTestVPN@4501b7af]" name="sikulitest" duration-ms="10930" started-at="2017-02-15T12:35:50Z" finished-at="2017-02-15T12:36:01Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- startBrowser -->
-        <test-method status="PASS" signature="launchWeb()[pri:0, instance:Qainfotech.Session5.HRIS_Time@26653222]" name="launchWeb" duration-ms="11734" started-at="2017-02-13T15:30:12Z" finished-at="2017-02-13T15:30:24Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launchWeb -->
-      </class> <!-- Qainfotech.Session5.HRIS_Time -->
+        </test-method> <!-- sikulitest -->
+      </class> <!-- Qainfotech.Session5.SikuliTestVPN -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
